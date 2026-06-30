@@ -1,0 +1,6 @@
+category,pairs,items,item_accuracy,pair_consistency,consistency_gap,gap_ci_low,gap_ci_high,predicted_accept_rate,gold_accept_rate
+filler_gap,2,4,0.75,0.5,0.25,0.0,0.5,0.75,0.5
+negation_scope,2,4,1.0,1,0.0,0.0,0.0,0.5,0.5
+pronoun_reference,2,4,0.75,0.5,0.25,0.0,0.5,0.75,0.5
+quantifier_scope,2,4,0.75,0.5,0.25,0.0,0.5,0.75,0.5
+subject_verb_agreement,3,6,0.667,0.333,0.333,0.0,0.5,0.5,0.5
